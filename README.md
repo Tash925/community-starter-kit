@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is an introduction to the probot app.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The probot app helps to read and write contents for Github.
 
 ## Getting started
 
